@@ -104,3 +104,5 @@ Back up your header file or use version control (like Git) before using this too
 Performance: For very large projects with frequent changes, the overhead of constant rescanning might become noticeable, although inotify itself is efficient.
 
 Beware: this project works only if you use 42norm.
+
+Currently this project is not finished, currently working on better error and edge cases handling.
